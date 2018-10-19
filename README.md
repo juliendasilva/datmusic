@@ -1,6 +1,8 @@
 Music
 =====
 
+[![GuardRails badge](https://badges.production.guardrails.io/juliendasilva/datmusic.svg)](https://www.guardrails.io)
+
 Search and Download free music from VK.
 
 ## Demo
